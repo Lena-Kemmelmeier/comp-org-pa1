@@ -1,11 +1,6 @@
 # CS 219 Programming Assignment 1
 
-The following files are required to run the program:
-• driver.cpp
-• assemblyCalculator.cpp
-• assemblyCalculator.h
-• Programming-Project-1.txt
-• makefile (makes the assemblySim executable)
+The following files are required to run the program: driver.cpp, assemblyCalculator.cpp, assemblyCalculator.h, Programming-Project-1.txt, makefile (makes the assemblySim executable)
 
 To run, please first try ./assemblySim Programming-Project-1.txt. If that does not work, try running the make clean command, then the make command and trying again, and make sure that the txt file is spelled correctly.
 
